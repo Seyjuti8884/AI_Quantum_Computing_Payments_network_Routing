@@ -53,29 +53,12 @@ The router optimizes payment paths based on multiple weighted factors:
 
 The FIS Quantum Payment Router delivers exceptional performance across multiple critical metrics:
 
-### Speed & Efficiency
-- **Route Calculation**: 80-120ms average route computation time for standard networks
-- **Quantum Advantage**: 32% faster optimization compared to classical-only approaches
-- **Scalability**: Linear performance scaling up to 50 nodes and 200 edges
-
-### Cost Optimization
-- **Fee Reduction**: Average 12.4% decrease in total transaction fees
-- **Forex Savings**: Up to 18% improvement in currency conversion costs
-- **Liquidity Utilization**: 26% more efficient use of available liquidity pools
-
-### Reliability
-- **Fault Detection**: 99.8% success rate in identifying network disruptions
-- **Alternative Routing**: 97.3% successful transaction completion during node outages
-- **Prediction Accuracy**: Neural network achieves 94.7% accuracy in optimal path prediction
-
 ### Benchmark Comparisons
 | Metric | Traditional Router | AI-Only Router | FIS Quantum Router |
 |--------|-------------------|----------------|-------------------|
 | Avg. Route Time | 250ms | 150ms | 95ms |
 | Cost Optimization | Base | +8.5% | +12.4% |
 | Path Optimality | 76.2% | 85.3% | 93.8% |
-| Fault Recovery | Manual | Automated | Predictive |
-| Complex Constraint Handling | Limited | Moderate | Advanced |
 
 *Performance metrics based on internal testing with simulated network of 5-15 nodes and standard payment volumes.*
 
