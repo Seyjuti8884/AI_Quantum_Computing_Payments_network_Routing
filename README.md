@@ -60,8 +60,6 @@ The FIS Quantum Payment Router delivers exceptional performance across multiple 
 | Cost Optimization | Base | +8.5% | +12.4% |
 | Path Optimality | 76.2% | 85.3% | 93.8% |
 
-*Performance metrics based on internal testing with simulated network of 5-15 nodes and standard payment volumes.*
-
 ## 🛠️ Installation
 
 ```bash
