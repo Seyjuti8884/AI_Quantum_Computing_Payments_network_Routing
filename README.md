@@ -5,7 +5,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.9+-orange.svg)
 ![Qiskit](https://img.shields.io/badge/Qiskit-0.40+-6929C4.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-000000.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 
 ## 📋 Table of Contents
@@ -21,8 +21,7 @@
 - [Demo](#demo)
 - [Performance](#performance)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🔍 Overview
 
