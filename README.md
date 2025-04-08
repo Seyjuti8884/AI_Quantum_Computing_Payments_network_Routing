@@ -172,11 +172,13 @@ model = tf.keras.Sequential([
 Below are screenshots from the application showing the input form and results page:
 
 #### Input Form
-![Quantum Payment Router Interface](/img/placeholder.png)
+![WhatsApp Image 2025-04-09 at 00 09 07_2035a2b7](https://github.com/user-attachments/assets/3b0d2407-2c19-4cd8-a03e-79f6eca01c3b)
+
 *The user interface allows selection of start and end nodes along with the payment amount*
 
 #### Results Page
-![Quantum Payment Results](/img/placeholder.png)
+![WhatsApp Image 2025-04-09 at 00 09 07_42c69077](https://github.com/user-attachments/assets/92722332-f7d8-4685-ab52-ef276c6fa1e6)
+
 *Results showing the optimal path was rejected due to node D being down, with an alternative path automatically selected*
 
 
