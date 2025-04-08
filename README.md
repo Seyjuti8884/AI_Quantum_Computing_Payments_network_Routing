@@ -20,7 +20,7 @@
 - [AI Route Prediction](#ai-route-prediction)
 - [Demo](#demo)
 - [Performance](#performance)
-- [Roadmap](#roadmap)
+
 
 
 ## 🔍 Overview
@@ -159,14 +159,6 @@ This AI model is trained on synthetic data generated from the existing network s
 | AI-only | 38ms | $4.75 | 99.5% |
 | Quantum | 32ms | $4.10 | 99.3% |
 | Hybrid AI-Quantum | 29ms | $3.85 | 99.7% |
-
-## 🗺 Roadmap
-
-- **Q2 2025**: Support for additional payment networks
-- **Q3 2025**: Real-time liquidity monitoring integration
-- **Q4 2025**: Enhanced quantum circuit designs for larger networks
-- **Q1 2026**: Regulatory compliance framework integration
-- **Q2 2026**: Multi-currency support with FX optimization
 
 
 ```
