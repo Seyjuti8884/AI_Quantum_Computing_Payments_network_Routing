@@ -1,7 +1,6 @@
 # FIS Quantum Payment Router
 
 ![FIS Quantum Payment Router](https://img.shields.io/badge/FIS-Quantum%20Payment%20Router-0033A0)
-![Status](https://img.shields.io/badge/Status-Beta-78BE20)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Qiskit](https://img.shields.io/badge/Qiskit-0.40.0-5F259F)
@@ -10,8 +9,6 @@
 ## 🚀 Overview
 
 The FIS Quantum Payment Router is an advanced cross-border payment optimization system that leverages quantum computing and AI to find the most efficient payment routes. This cutting-edge solution combines neural networks with quantum optimization algorithms to minimize transaction costs, reduce latency, and optimize forex conversions in real-time.
-
-![Quantum Payment Router Demo](https://img.shields.io/badge/Demo-Coming%20Soon-007DBA)
 
 ## ✨ Key Features
 
@@ -169,5 +166,18 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(1)
 ])
 ```
+
+### Demo Output
+
+Below are screenshots from the application showing the input form and results page:
+
+#### Input Form
+![Quantum Payment Router Interface](/img/placeholder.png)
+*The user interface allows selection of start and end nodes along with the payment amount*
+
+#### Results Page
+![Quantum Payment Results](/img/placeholder.png)
+*Results showing the optimal path was rejected due to node D being down, with an alternative path automatically selected*
+
 
 *This advanced payment routing system demonstrates the potential of quantum computing and AI in revolutionizing global financial infrastructure.*
