@@ -1,4 +1,4 @@
-# Quantum Payment Router
+# AI-Enhanced Quantum Payment Routing
 
 ![FIS Quantum Payment Router](https://img.shields.io/badge/FIS-Quantum_Payment_Router-0033A0)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -51,7 +51,8 @@ The system uses a three-layer architecture:
 - **AI/ML**: TensorFlow
 - **Quantum Computing**: Qiskit, Qiskit Optimization
 - **Graph Processing**: NetworkX
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS3
+- **Styling**: Custom CSS with FIS branding
 
 ## 🚀 Installation
 
