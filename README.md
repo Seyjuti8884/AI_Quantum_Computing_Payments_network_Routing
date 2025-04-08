@@ -51,8 +51,7 @@ The system uses a three-layer architecture:
 - **AI/ML**: TensorFlow
 - **Quantum Computing**: Qiskit, Qiskit Optimization
 - **Graph Processing**: NetworkX
-- **Frontend**: HTML5, CSS3
-- **Styling**: Custom CSS with FIS branding
+- **Frontend**: HTML5, CSS3, JavaScript
 
 ## 🚀 Installation
 
